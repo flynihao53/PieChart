@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
         mChart.getDescription().setEnabled(false);
 
+        //这是新增的一段话，1234567890
         // if more than 60 entries are displayed in the chart, no values will be
         // drawn
         mChart.setMaxVisibleValueCount(60);
